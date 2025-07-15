@@ -1,4 +1,5 @@
 a=10
 b=23
-c=a+b
-print(c)
+c=2
+d=a+b+c
+print(d)
